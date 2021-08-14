@@ -1,0 +1,19 @@
+P1,P2,P3,P4,Grupo
+É bonitinho,Talvez,Sim,100 - 500,Tratamento
+Está feliz,Com certeza não,Sim,100 - 500,Tratamento
+Está com raiva,Talvez,Sim,500 - 1000,Tratamento
+Está feliz,Talvez,Sim,0 - 100,Tratamento
+É bonitinho,Talvez,Sim,100 - 500,Tratamento
+Está feliz,Com certeza não,Sim,> 1000,Tratamento
+Está feliz,Com certeza não,Sim,500 - 1000,Tratamento
+Está com raiva,Talvez,Sim,0 - 100,Tratamento
+Está feliz,Com certeza não,Sim,> 1000,Tratamento
+Está feliz,Não,Sim,Todo dia,Controle
+Está com raiva,Não,Sim,De 1 a 3 dias,Controle
+Está com raiva,Não,Sim,De 1 a 3 dias,Controle
+Está com raiva,Não,Sim,De 1 a 3 dias,Controle
+Está feliz,Não,Sim,Não costumo ver memes de cachorro,Controle
+Está feliz,Não,Sim,De 4 a 6 dias,Controle
+Está feliz,Não,Sim,Não costumo ver memes de cachorro,Controle
+Está feliz,Sim,Sim,De 1 a 3 dias,Controle
+Está com raiva,Sim,Sim,Todo dia,Controle
