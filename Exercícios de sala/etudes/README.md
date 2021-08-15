@@ -8,6 +8,7 @@ Este conjunto de dados foi baseado num subconjunto do MAESTRO (https://magenta.t
 2. Download e separação de arquivos `.mid` (na pasta midi) e `.mp3` (na pasta mp3)
 3. Anotação dos metadados, que podem ser encontrados no arquivo `etudes.csv` (https://github.com/hype-usp/Hype-Academy/blob/main/Exerc%C3%ADcios%20de%20sala/etudes/etudes.csv)
 4. Extração de *features* dos arquivos `.mid` utilizando a biblioteca `music21` (https://web.mit.edu/music21/)
+5. Junção das *features* extraídas e dos metadados anotados no arquivo `etudes_full.csv`
 
 ## Dicionário de dados
 
