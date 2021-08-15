@@ -32,7 +32,7 @@ Este conjunto de dados foi baseado num subconjunto do MAESTRO (https://magenta.t
 
 *IMSLP: https://imslp.org/wiki/Main_Page
 
-## Código para extração de *features*
+## Código utilizado na extração de *features*
 
 ```python
 import os
