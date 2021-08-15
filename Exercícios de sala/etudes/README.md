@@ -37,6 +37,7 @@ Este conjunto de dados foi baseado num subconjunto do MAESTRO (https://magenta.t
 ```python
 import os
 import pandas as pd
+from music21 import *
 
 etudes_data = pd.DataFrame(columns=['id', 'key', 'duration', 'tempo', 'time_signature', 'pitch_list', 'midi_list', 'duration_list', 'volume_list'])
 files = os.listdir('hype/Exercícios de sala/etudes/midi')
